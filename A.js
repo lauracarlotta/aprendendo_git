@@ -6,3 +6,5 @@
 
 import {nome} from './B';
 console.log (nome);
+
+// Wellington comentou aqui
